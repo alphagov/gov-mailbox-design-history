@@ -1,6 +1,11 @@
-# Design history for GOV.UK services
+# Design history for Gov Mailbox
 
-A place for you to document your GOV.UK service designs.
+Gov Mailbox is a potential platform for citizen communication
+
+Citizens need to receive communications from government departments covering legal and functional requirements to implement policy. The government needs an official way to send these communications to individuals and organisations. Currently, this is done through physical letters sent to a mailbox at the person's residence, which is verified to be connected to their identity, this project is to build a digital equivalent.
+
+https://www.figma.com/design/zOdvURuLtLklNjP2f7zun0/GDS-Inbox-design-pattern-proposal?node-id=0-1
+https://github.com/alphagov/govuk-design-system-backlog/issues/298
 
 ## Purpose of this project
 
@@ -25,3 +30,4 @@ For questions about using a design history for your service, bug reports or feed
 ## Technical notes
 
 The design history uses the [GOV.UK Design System](https://design-system.service.gov.uk) and the [Eleventy](https://www.11ty.dev) static site generator with the [GOV.UK Eleventy Plugin](https://x-govuk.github.io/govuk-eleventy-plugin/).
+
