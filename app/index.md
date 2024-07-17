@@ -1,8 +1,8 @@
 ---
 homepage: true
 layout: product
-title: A design history for your GOV.UK service
-description: A permanent record of how your service has developed over time.
+title: Gov Mailbox design history
+description: A history of Mailbox platform
 pagination:
   data: collections.all
   reverse: true
