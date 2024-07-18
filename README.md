@@ -2,7 +2,7 @@
 
 Gov Mailbox is a potential platform for citizen communication
 
-Citizens need to receive communications from government departments covering legal and functional requirements to implement policy. The government needs an official way to send these communications to individuals and organisations. Currently, this is done through physical letters sent to a mailbox at the person's residence, which is verified to be connected to their identity, this project is to build a digital equivalent.
+Citizens need to receive communications from government departments covering legal and functional requirements to implement policy. The government needs an official way to send these communications to individuals and organizations. This is done through physical letters sent to a mailbox at the person's residence, which is verified to be connected to their identity. This project is to build a digital equivalent.
 
 https://www.figma.com/design/zOdvURuLtLklNjP2f7zun0/GDS-Inbox-design-pattern-proposal?node-id=0-1
 https://github.com/alphagov/govuk-design-system-backlog/issues/298
