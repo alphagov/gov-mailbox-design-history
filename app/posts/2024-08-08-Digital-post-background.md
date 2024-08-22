@@ -20,7 +20,7 @@ As the mailbox was one of the starting points for digitisation it serves a numbe
 - Statutory requirement for legal documents
 - Forms and transactional services
 
-![Danish National Digital Post screenshots](/denmark-mailbox.jpg)
+![Danish National Digital Post screenshots](denmark-mailbox.jpg)
 
 ## Scottish mailbox
 Working with the underlying platform a mailbox is being tested in Scotland.
@@ -28,7 +28,7 @@ Working with the underlying platform a mailbox is being tested in Scotland.
 https://www.civtech.scot/demo-day-9-netcompany
 
 
-![Scottish mailbox screenshot showing inbox](/civtech-mailbox.jpg)
+![Scottish mailbox screenshot showing inbox](civtech-mailbox.jpg)
 
 ## Additional links
 - [What is Digital Post](https://lifeindenmark.borger.dk/apps-and-digital-services/Digital-Post)
