@@ -18,9 +18,9 @@ tags:
 ---
 ## Overview
 
-![Showing guidance at the relevant point when replacing referees](/gaap-landscape.png)
+![Showing guidance at the relevant point when replacing referees](gaap-landscape.png)
 
-![Showing guidance at the relevant point when replacing referees](/gov-app.jpg)
+![Showing guidance at the relevant point when replacing referees](gov-app.jpg)
 
 ## Apps
 
