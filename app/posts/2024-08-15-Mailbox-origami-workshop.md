@@ -24,7 +24,8 @@ Our goals were to:
 - Develop a holistic view of systems and their connection to the citizen’s journey
 - Identify challenges, opportunities, and document a clearer view of the landscape
 
-![Showing guidance at the relevant point when replacing referees](workshop.jpg)
+![Showing guidance at the relevant point when replacing referees](workshop-01.jpg)
+
 
 ## Focusing on citizen journey across the landscape
 
