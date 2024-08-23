@@ -32,7 +32,7 @@ The [Danish National Digital Post](https://en.digst.dk/systems/digital-post/) so
 - The mailbox uses [MitID](https://www.mitid.dk/en-gb/) for secure login and identity verification, ensuring that only the intended recipient can access the information
 - Citizens can access Digital Post through various platforms, including the official Digital Post website, Borger.dk, and e-Boks
 
-As the mailbox was one of the starting points for digitisation it serves a number of core mailbox functions but also uses the mailbox as a platform to solve a number of the interconnected needs as well as additional service journeys.
+As the mailbox was one of the starting points for digitisation it serves a number of core mailbox functions but also uses the mailbox as a platform to solve interconnected needs, including complete service journeys.
 
 - Statutory requirement for legal documents
 - Forms and transactional services
